@@ -1,4 +1,4 @@
-![Medicine Inventory Banner](assets/banner.png)
+![Medicine Inventory Banner](assets/banner.png.png)
 
 # 💊 Medicine Inventory Project
 
